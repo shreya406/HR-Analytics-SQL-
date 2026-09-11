@@ -1,0 +1,1 @@
+These SQL files are the original MySQL Workbench export supplied for the hr_analytics database. They are preserved unchanged for provenance. Do not edit these files; use database/final for the corrected project version.
